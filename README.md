@@ -50,3 +50,4 @@ pip install streamlit
   * [Vladislav Todorov](https://www.linkedin.com/in/vladislavtodorov/)
   * [Akash Kumar Roy](https://www.linkedin.com/in/akash-kumar-roy-2b36a2163/)
   * [Kishore Kunisetty](https://github.com/kishoreKunisetty)
+  * [Mahdi Ashraf](mailto:mahdimle93@gmail.com)
