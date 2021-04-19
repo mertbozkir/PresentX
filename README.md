@@ -8,8 +8,15 @@
 * ## Project Flow
   * It will take an input for making presentation.
   * GPT-3 will create LaTex code. 
-  * We paste this LaTex code to Overleaf page to see resulting presentation 
-
+  * We paste this LaTex code to [Overleaf](https://www.overleaf.com/project) page to see resulting presentation 
+* ## Requirements
+  *  an openai api key
+  *  an environment with python 3 and, openai and streamlit installed
+## To install requirements
+```python 
+pip install openai
+pip install streamlit
+```  
 ## Results
  <h3><details >
     <summary>Result 1: Scientists contribution to humanity</summary>
@@ -36,3 +43,10 @@
 ![image](https://user-images.githubusercontent.com/63906053/115167433-44996280-a0c0-11eb-8c6d-5543b344045d.png)
 
 </details></h3>
+
+## Team
+  * [mertbozkir](https://github.com/mertbozkir)
+  * [Kartik Sachdev](https://www.linkedin.com/in/kartik-sachdev-7bb581ab/)
+  * [Vladislav](https://www.linkedin.com/in/vladislavtodorov/)
+  * [akash](https://www.linkedin.com/in/akash-kumar-roy-2b36a2163/)
+  * [Kishore](https://github.com/kishoreKunisetty)
