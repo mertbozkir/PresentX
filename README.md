@@ -46,7 +46,7 @@ pip install streamlit
 
 ## Team
   * [Mert Bozkir](https://github.com/mertbozkir)
-  * [Kartik Sachdev](https://www.linkedin.com/in/kartik-sachdev-7bb581ab/)
+  * [Kartik Sachdev](https://github.com/sachdevkartik)
   * [Vladislav Todorov](https://www.linkedin.com/in/vladislavtodorov/)
   * [Akash Kumar Roy](https://www.linkedin.com/in/akash-kumar-roy-2b36a2163/)
   * [Kishore Kunisetty](https://github.com/kishoreKunisetty)
